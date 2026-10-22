@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/vs codes/C++ code/Pointer/first",
-      "program": "d:/vs codes/C++ code/Pointer/first/build/Debug/outDebug",
+      "cwd": "d:/vs codes/C++ code/functions",
+      "program": "d:/vs codes/C++ code/functions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
