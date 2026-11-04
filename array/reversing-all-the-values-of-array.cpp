@@ -5,7 +5,6 @@ int main(){
     int n;
     cin>>n;
     int a[20],b[20];
-    bool c=true;
     for(int b=0;b<n;b++){
         cin>>a[b];
     }

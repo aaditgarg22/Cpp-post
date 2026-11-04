@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/vs codes/C++ code/functions/recursion",
-      "program": "d:/vs codes/C++ code/functions/recursion/build/Debug/outDebug",
+      "cwd": "d:/vs codes/C++ code/FunProjects",
+      "program": "d:/vs codes/C++ code/FunProjects/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

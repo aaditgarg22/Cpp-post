@@ -19,7 +19,7 @@ int main(){
                 minindex=j;
             
                 // swapping value but within for loop of i
-
+ 
                 
             }
             swap(a[i],a[minindex]);
