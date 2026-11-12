@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/vs codes/C++ code/FunProjects",
-      "program": "d:/vs codes/C++ code/FunProjects/build/Debug/outDebug",
+      "cwd": "d:/vs codes/C++ code/structure",
+      "program": "d:/vs codes/C++ code/structure/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
